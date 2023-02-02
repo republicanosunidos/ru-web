@@ -123,7 +123,7 @@ let referentes = [
         id: 10,
         nombre: "Rodrigo",
         apellido: "López Guerra",
-        redesSociales: [{ red: "twitter", link: "rodrilopezg" }],
+        redesSociales: [{ red: "twitter", link: "rlopezguerra" }],
         pagina: "../pages/referentes/rodrigo-lopez-guerra.html",
         foto: "../img/referentes/rodrigo_cuadrado.jpg",
         foto1: "../img/referentes/rodrigo.jpg",
@@ -577,6 +577,19 @@ let referentes = [
         pagina: "../pages/referentes/florencia-ravelo.html",
         foto: "../img/referentes/florencia-ravelo_cuadrado.jpg",
         foto1: "../img/referentes/florencia-ravelo.jpg",
+        sexo: 'M'
+    },
+    {
+        id: 44,
+        nombre: "Maria",
+        apellido: "Eugenia Talerico",
+        redesSociales: [
+            { red: "twitter", link: "https://twitter.com/eugetale" },
+            { red: "instagram", link: "https://instagram.com/eugenia.talerico" },
+        ],
+        pagina: "../pages/referentes/maria-eugenia-talerico.html",
+        foto: "../img/referentes/maria-eugenia-talerico_cuadrado.png",
+        foto1: "../img/referentes/maria-eugenia-talerico.png",
         sexo: 'M'
     },
 /*{

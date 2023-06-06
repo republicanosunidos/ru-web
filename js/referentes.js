@@ -130,32 +130,6 @@ let referentes = [
         sexo: 'H'
     },
     {
-        id: 11,
-        nombre: "Natalia",
-        apellido: "Motyl",
-        redesSociales: [
-            { red: "twitter", link: "naty_motyl" },
-            { red: "instagram", link: "https://instagram.com/naty_motyl" },
-        ],
-        pagina: "../pages/referentes/natalia-motyl.html",
-        foto: "../img/referentes/motyl_cuadrado.jpeg",
-        foto1: "../img/referentes/motyl.png",
-        sexo: 'M'
-    },
-    {
-        id: 12,
-        nombre: "Gabriela",
-        apellido: "Malerba",
-        redesSociales: [
-            { red: "twitter", link: "https://twitter.com/GabrielaMaler" },
-            { red: "instagram", link: "https://instagram.com/GabrielaMalerba" },
-        ],
-        pagina: "../pages/referentes/gabriela-malerba.html",
-        foto: "../img/referentes/gabriela_cuadrado.jpg",
-        foto1: "../img/referentes/gabriela.jpg",
-        sexo: 'M'
-    },
-    {
         id: 13,
         nombre: "Pablo",
         apellido: "Abdon Torres",

@@ -223,20 +223,6 @@ let referentes = [
         sexo: 'H'
     },
     {
-        id: 20,
-        nombre: "Juan Bautista",
-        apellido: "Quiroga",
-        redesSociales: [
-            { red: "twitter", link: "https://twitter.com/juanbquiroga" },
-            { red: "instagram", link: "https://instagram.com/jbquiroga" },
-            //{ red: "facebook", link: "https://www.facebook.com/gus.rse" },
-        ],
-        pagina: "../pages/referentes/juan-quiroga.html",
-        foto: "../img/referentes/juan-quiroga_cuadrado.jpg",
-        foto1: "../img/referentes/juan-quiroga.jpg",
-        sexo: 'H'
-    },
-    {
         id: 21,
         nombre: "Rodrigo",
         apellido: "Forlenza",
@@ -566,7 +552,21 @@ let referentes = [
         foto1: "../img/referentes/maria-eugenia-talerico.png",
         sexo: 'M'
     },
-/*{
+/*
+    {
+        id: 20,
+        nombre: "Juan Bautista",
+        apellido: "Quiroga",
+        redesSociales: [
+            { red: "twitter", link: "https://twitter.com/juanbquiroga" },
+            { red: "instagram", link: "https://instagram.com/jbquiroga" },
+            //{ red: "facebook", link: "https://www.facebook.com/gus.rse" },
+        ],
+        pagina: "../pages/referentes/juan-quiroga.html",
+        foto: "../img/referentes/juan-quiroga_cuadrado.jpg",
+        foto1: "../img/referentes/juan-quiroga.jpg",
+        sexo: 'H'
+    },{
 id: 22,
 nombre: "Maria",
 apellido: "De Piano",
